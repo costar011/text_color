@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Source+Serif+Pro&family=Wendy+One&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background: #2A2734;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+ul {
+    display: flex;
+}
